@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mixo</string>
+    <string name="mx_hint_email">Email Address</string>
+    <string name="mx_hint_username">Username</string>
+    <string name="mx_hint_password">Password</string>
+    <string name="mx_button_register">Sign Up</string>
+    <string name="mx_button_login">Log In</string>
+    <string name="mx_button_next">Next</string>
+    <string name="mx_button_cancel">Cancel</string>
+    <string name="mx_error_password">Password must contain at least 6 characters.</string>
+    <string name="mx_filter_title">Filter</string>
+    <string name="mx_search_title">Search</string>
+    <string name="mx_product_name">Title</string>
+    <string name="mx_product_description">Secondary text</string>
+    <string name="mx_product_recipe">Tertiary text</string>
+
+    <!--  Mixo backdrop menu labels  -->
+    <string name="mx_featured_label">Featured</string>
+    <string name="mx_apartment_label">Apartment</string>
+    <string name="mx_accessories_label">Accessories</string>
+    <string name="mx_shoes_label">Shoes</string>
+    <string name="mx_tops_label">Tops</string>
+    <string name="mx_bottoms_label">Bottoms</string>
+    <string name="mx_dresses_label">Dresses</string>
+    <string name="mx_account_label">My Account</string>
+    <string name="mx_logo_content_description">Mixo Logo</string>
+</resources>
